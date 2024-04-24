@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "AzureCAF"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "AzureCAF"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "AzureCAF"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "AzureCAF"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "AzureCAF"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "AzureCAF"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -44,7 +44,7 @@
     "policyAssignmentParametersCommon": {
       "value": {
         "ALZMonitorResourceGroupName": {
-          "value": "rg-amba-monitoring-001"
+          "value": "rg-amba-monitoring"
         },
         "ALZMonitorResourceGroupTags": {
           "value": {
@@ -52,7 +52,7 @@
           }
         },
         "ALZMonitorResourceGroupLocation": {
-          "value": "eastus"
+          "value": "westeurope"
         }
       }
     },
@@ -69,7 +69,7 @@
     "policyAssignmentParametersNotificationAssets": {
       "value": {
         "ALZMonitorActionGroupEmail": {
-          "value": ""
+          "value": "va.nik@hotmail.com"
         },
         "ALZLogicappResourceId": {
           "value": ""
