@@ -8,7 +8,7 @@ Get-AzContext | FL
 Get-InstalledModule -Name "Az.Accounts" 
 Get-InstalledModule -Name "Az.Resources" 
 # ===========================================
-
+#Dev
 # =========================================== Perform alzArm.json deployment
 # Configuring variables for deployment
 $location = "westeurope"
