@@ -1516,7 +1516,7 @@
           "value": "PT15M"
         },
         "VMDataDiskSpaceEvaluationFrequency": {
-          "value": "PT10M"
+          "value": "PT30M"
         },
         "VMDataDiskSpaceAutoMitigate": {
           "value": "true"
