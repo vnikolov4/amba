@@ -1,3 +1,14 @@
+# Generic
+Connect-AzAccount -Tenant addb9eec-467b-4ead-b011-7808eb409b59 -UseDeviceAuthentication
+Get-AzContext | FL
+
+# check for: 
+# Az.Accounts
+# Az.Resources
+Get-InstalledModule -Name "Az.Accounts" 
+Get-InstalledModule -Name "Az.Resources" 
+
+
 # Configuring variables for deployment
 $location = "westeurope"
 $pseudoRootManagementGroup = "AzureCAF"
