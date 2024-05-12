@@ -186,6 +186,7 @@ var loadPolicySetDefinitions = {
     loadTextContent('../policySetDefinitions/Deploy-Management-Alerts.json')
     loadTextContent('../policySetDefinitions/Deploy-ServiceHealth-Alerts.json')
     loadTextContent('../policySetDefinitions/Deploy-Notification-Assets.json')
+    loadTextContent('../policySetDefinitions/policy_set_definition_Deploy_Diagnostics_LogAnalytics_custom.json')
   ]
   AzureCloud: []
   AzureChinaCloud: []
