@@ -1516,7 +1516,7 @@
           "value": "PT15M"
         },
         "VMDataDiskSpaceEvaluationFrequency": {
-          "value": "PT5M"
+          "value": "PT10M"
         },
         "VMDataDiskSpaceAutoMitigate": {
           "value": "true"
@@ -1531,7 +1531,7 @@
           "value": "deployIfNotExists"
         },
         "VMDataDiskSpaceAlertState": {
-          "value": "true"
+          "value": "false"
         },
         "VMDataDiskSpaceThreshold": {
           "value": "10"
