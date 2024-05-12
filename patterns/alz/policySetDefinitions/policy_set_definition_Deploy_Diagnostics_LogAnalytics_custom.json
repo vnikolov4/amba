@@ -98,7 +98,7 @@
                 "True",
                 "False"
             ],
-            "defaultValue": "True"
+            "defaultValue": "False"
         },
         "TimeoutsEnabled": {
             "type": "String",
