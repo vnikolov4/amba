@@ -1513,10 +1513,10 @@
           "value": "2"
         },
         "VMDataDiskSpaceWindowSize": {
-          "value": "PT15M"
+          "value": "PT30M"
         },
         "VMDataDiskSpaceEvaluationFrequency": {
-          "value": "PT30M"
+          "value": "PT15M"
         },
         "VMDataDiskSpaceAutoMitigate": {
           "value": "true"
