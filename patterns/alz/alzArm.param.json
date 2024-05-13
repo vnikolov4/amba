@@ -1531,7 +1531,7 @@
           "value": "deployIfNotExists"
         },
         "VMDataDiskSpaceAlertState": {
-          "value": "false"
+          "value": "true"
         },
         "VMDataDiskSpaceThreshold": {
           "value": "10"
